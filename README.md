@@ -10,7 +10,7 @@ Challenge | Category | Points
 [Inspect Me](/web_exploitation/inspect_me.md) | Web Exploitation | 125 | 
 Aca-Shell-A | General Skills | 150 |
 [Client Side is Still Bad](/web_exploitation/client_side_is_still_bad.md) | Web Exploitation | 150 |
-Logon | Web Exploitation | 150 |
+[Logon](/web_exploitation/logon.md) | Web Exploitation | 150 |
 admin panel | Forensics | 150 |
 Irish Name Repo | Web Exploitation | 200 |
 Mr. Robots | Web Exploitation | 200 |

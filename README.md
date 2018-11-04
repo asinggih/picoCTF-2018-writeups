@@ -1,6 +1,6 @@
 # picoCTF-2018-writeups
 
-This repository contains writeups of most easyCTF IV challenges that I managed to finished. Thanks to easyCTF organisers for running the event.  
+This repository contains writeups of most picoCTF 2018 challenges that I managed to finished. Shout out to all the organisers and contributors for making this fun event possible!
 
 
 ## Solved Challenges

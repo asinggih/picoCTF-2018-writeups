@@ -11,7 +11,7 @@ Challenge | Category | Points
 Aca-Shell-A | General Skills | 150 |
 [Client Side is Still Bad](/web_exploitation/client_side_is_still_bad.md) | Web Exploitation | 150 |
 [Logon](/web_exploitation/logon.md) | Web Exploitation | 150 |
-[admin panel](/web_exploitation/admin_panel.md) | Forensics | 150 |
+[admin panel](/forensics/admin_panel.md) | Forensics | 150 |
 [Irish Name Repo](/web_exploitation/irish_name_repo.md) | Web Exploitation | 200 |
 Mr. Robots | Web Exploitation | 200 |
 No Login | Web Exploitation | 200 |

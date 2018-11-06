@@ -1,4 +1,4 @@
-# Admin panel - 125 points
+# Admin panel - 150 points
 
 We captured some [traffic](https://2018shell1.picoctf.com/static/ee6ed2afe1da153ae06e61d5ee26d52d/data.pcap) logging into the admin panel, can you find the password?
 

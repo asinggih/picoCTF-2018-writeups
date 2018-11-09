@@ -15,7 +15,7 @@ Aca-Shell-A | General Skills | 150 |
 [Irish Name Repo](/web_exploitation/irish_name_repo.md) | Web Exploitation | 200 |
 Mr. Robots | Web Exploitation | 200 |
 [No Login](/web_exploitation/no_login.md) | Web Exploitation | 200 |
-Secret Agent | Web Exploitation | 200 |
+[Secret Agent](/web_exploitation/secret_agent.md) | Web Exploitation | 200 |
 Buttons | Web Exploitation | 250 |
 The Vault | Web Exploitation | 250 |
 Artisinal Handcrafted HTTP 3 | Web Exploitation | 300 |

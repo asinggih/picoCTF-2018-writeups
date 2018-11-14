@@ -16,7 +16,7 @@ Aca-Shell-A | General Skills | 150 |
 Mr. Robots | Web Exploitation | 200 |
 [No Login](/web_exploitation/no_login.md) | Web Exploitation | 200 |
 [Secret Agent](/web_exploitation/secret_agent.md) | Web Exploitation | 200 |
-Buttons | Web Exploitation | 250 |
+[Buttons](/web_exploitation/buttons.md) | Web Exploitation | 250 |
 The Vault | Web Exploitation | 250 |
 Artisinal Handcrafted HTTP 3 | Web Exploitation | 300 |
 Flaskcards | Web Exploitation | 350 |

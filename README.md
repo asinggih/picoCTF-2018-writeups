@@ -19,7 +19,7 @@ Mr. Robots | Web Exploitation | 200 |
 [Buttons](/web_exploitation/buttons.md) | Web Exploitation | 250 |
 [The Vault](/web_exploitation/the_vault.md) | Web Exploitation | 250 |
 [Artisinal Handcrafted HTTP 3](/web_exploitation/Artisinal_http_req.md) | Web Exploitation | 300 |
-Flaskcards | Web Exploitation | 350 |
+[Flaskcards](/web_exploitation/flaskcards.md) | Web Exploitation | 350 |
 Flaskcards Skeleton Key | Web Exploitation | 600 |
 Help Me Reset 2 | Web Exploitation | 600 |
 A Simple Question | Web Exploitation | 650 |

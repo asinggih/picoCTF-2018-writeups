@@ -13,7 +13,7 @@ Aca-Shell-A | General Skills | 150 |
 [Logon](/web_exploitation/logon.md) | Web Exploitation | 150 |
 [admin panel](/forensics/admin_panel.md) | Forensics | 150 |
 [Irish Name Repo](/web_exploitation/irish_name_repo.md) | Web Exploitation | 200 |
-Mr. Robots | Web Exploitation | 200 |
+[Mr. Robots](/web_exploitation/mr_robots.md) | Web Exploitation | 200 |
 [No Login](/web_exploitation/no_login.md) | Web Exploitation | 200 |
 [Secret Agent](/web_exploitation/secret_agent.md) | Web Exploitation | 200 |
 [Buttons](/web_exploitation/buttons.md) | Web Exploitation | 250 |

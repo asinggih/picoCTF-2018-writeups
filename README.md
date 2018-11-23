@@ -20,7 +20,7 @@ Aca-Shell-A | General Skills | 150 |
 [The Vault](/web_exploitation/the_vault.md) | Web Exploitation | 250 |
 [Artisinal Handcrafted HTTP 3](/web_exploitation/Artisinal_http_req.md) | Web Exploitation | 300 |
 [Flaskcards](/web_exploitation/flaskcards.md) | Web Exploitation | 350 |
-Flaskcards Skeleton Key | Web Exploitation | 600 |
+[Flaskcards Skeleton Key](/web_exploitation/flaskcards_skeleton_key.md) | Web Exploitation | 600 |
 [Help Me Reset 2](/web_exploitation/help_me_reset.md) | Web Exploitation | 600 |
 A Simple Question | Web Exploitation | 650 |
 

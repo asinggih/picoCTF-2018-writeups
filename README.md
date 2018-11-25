@@ -22,7 +22,7 @@ Aca-Shell-A | General Skills | 150 |
 [Flaskcards](/web_exploitation/flaskcards.md) | Web Exploitation | 350 |
 [Flaskcards Skeleton Key](/web_exploitation/flaskcards_skeleton_key.md) | Web Exploitation | 600 |
 [Help Me Reset 2](/web_exploitation/help_me_reset.md) | Web Exploitation | 600 |
-A Simple Question | Web Exploitation | 650 |
+[A Simple Question](/web_exploitation/simple_question.md) | Web Exploitation | 650 |
 
 
 
